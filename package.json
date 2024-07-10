@@ -1,0 +1,18 @@
+{
+  "name": "frosh-threejs-compass-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "mehar",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.3"
+  }
+}
